@@ -1,0 +1,10 @@
+{
+  "name": "sledujteto-tizenbrew",
+  "version": "1.0.0",
+  "description": "Remote navigation for Sledujteto.cz in TizenBrew",
+  "packageType": "mods",
+  "appName": "Sledujteto TV",
+  "websiteURL": "https://www.sledujteto.cz/",
+  "main": "index.js",
+  "keys": ["MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop", "MediaFastForward", "MediaRewind"]
+}
